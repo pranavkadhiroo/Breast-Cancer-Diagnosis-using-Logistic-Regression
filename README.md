@@ -1,6 +1,3 @@
-Here's a polished and presentable `README.md` for your GitHub project:
-
-
 # Breast Cancer Diagnosis using Logistic Regression
 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-blueviolet) ![Healthcare](https://img.shields.io/badge/-Healthcare-teal) ![Logistic Regression](https://img.shields.io/badge/-Logistic%20Regression-orange)
